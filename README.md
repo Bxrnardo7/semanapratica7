@@ -1,6 +1,6 @@
 # Atividade Prática - Semana 7
-- **Nome:** Bernardo A. Andrade
-- **Matrícula:** [SUA_MATRICULA_AQUI]
+- **Nome:** Bernardo Almeida Andrade
+- **Matrícula:** [931797]
 
 ### Resultado da Execução:
-![Print do Console](nome-da-sua-imagem.png)
+![Print do Console](console.png)
